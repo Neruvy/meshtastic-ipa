@@ -12,4 +12,4 @@ Additionally, Meshtastic radios can be paired with a single phone, allowing frie
 
 ---
 
-For more information about Meshtastic®, go to their [official website](https://meshtastic.org), or you could go to their [official GitHub Organization](https://github.com/meshtastic).
+For more information about Meshtastic®, go to their [official website](https://meshtastic.org), or you could go to their [official GitHub Organization](https://github.com/meshtastic). **I do not own, or work with Meshtastic® in any sort of way.**
